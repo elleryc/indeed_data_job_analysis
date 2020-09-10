@@ -1,4 +1,4 @@
-# indeed_data_job_analysis
+# Data Science Related Job Analysis through indeed.com
 ## Objective
 - To evaluate the development of data analysis in Hong Kong and Singapore Job Market though indeed.com.
 ## Project Structure
