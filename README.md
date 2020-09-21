@@ -4,4 +4,4 @@
 ## Project Structure
 - Step 1: create 'Indeed.csv' for both Hong Kong and Singapore job market using Indeed Dataframe.ipynb.
 - Step 2: visualise our data through Indeed graph.ipynb.
-- For findings, please refer to https://elleryc.github.io/elleryc_portfolio/post/project-1/.
+- For findings, please refer to https://elleryc.github.io/ellerychan/blog/indeed_data_analysis/.
